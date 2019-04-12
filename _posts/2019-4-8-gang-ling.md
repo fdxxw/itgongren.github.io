@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 合作社章程
+title: 合作社纲领
 ---
 IT工人合作社纲领
 
